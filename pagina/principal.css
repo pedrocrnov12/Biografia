@@ -1,0 +1,9 @@
+*{
+    margin: 40;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('fondo.jpg');
+}
